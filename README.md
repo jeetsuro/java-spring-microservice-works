@@ -1,2 +1,2 @@
 # hello-jenkins-ci
-repo to practice on git-jenkins-docker-kubernetes pipeline set-up
+repo to practice on sprngBoot-git-jenkins-docker-kubernetes pipeline set-up
