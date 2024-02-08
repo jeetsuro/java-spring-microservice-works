@@ -60,9 +60,9 @@ import com.surajit.spring.jenkins.utilities.*;
 
 // Build & deploy steps
 
-// mvn clean package -Dspring.profiles.active=dev -Dmy.json.config=C:\Users\esurpau\customers.json -Dmaven.test.skip=true
-// mvn clean package -Dspring.profiles.active=dev -Dmy.json.config=C:\Users\esurpau\customers.json
-// java -jar target\hello-jenkins-ci-dev.jar --welcome.salutation=Holo000,yoyo --spring.profiles.active=DEVELOPMENT --my.json.config=C:\Users\esurpau\customers.json
+// mvn clean package -Dspring.profiles.active=dev -Dmy.json.config=customers.json -Dmaven.test.skip=true
+
+// java -jar target\hello-jenkins-ci-dev.jar --welcome.salutation=Holo000,yoyo --spring.profiles.active=DEVELOPMENT --my.json.config=customers.json
 
 // http://localhost:8080/hello-jenkins/hello
 
